@@ -19,7 +19,7 @@ function send($assunto, $mensagem){
         $mail->SMTPSecure = 'tls';
         $mail->Host = 'tls://smtp.gmail.com';
         $mail->Username = "wendelfi66@gmail.com";
-        $mail->Password = "gustavo09";
+        $mail->Password = "CREITO RASTA";
         $mail->Port = 587;
         $mail->setFrom("wendelfi66@gmail.com");
         $mail->addAddress("wendelfi66@gmail.com");
